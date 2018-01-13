@@ -1,2 +1,2 @@
-# KeksinJaPizzanPeli
+# Keksin ja Pizzan peli
 Pelipalipaikka xd
