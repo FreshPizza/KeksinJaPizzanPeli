@@ -1,4 +1,4 @@
 # Keksin ja Pizzan peli
 Pelipalipaikka xd
-Ainii ja henkka on mulq
+Ainii ja henri on mulq
 xd
